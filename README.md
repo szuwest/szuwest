@@ -1,7 +1,7 @@
 ## 👋 Hello World！I’m West
-- 👀 I’m a mobile developer, focusing on Android and iOS APP development.
-- 💞️ I’m the developer of OneDiary(湾湾日记）, which is developed by flutter.
-- 🌱 I’m currently learning backend and frontend development.
+- 👀 I’m a mobile developer, focusing on Android and iOS App development.
+- 💞️ I’m the developer of OneDiary(湾湾日记）, which is developed with Flutter.
+- 🌱 I’m currently learning backend and web development.
 
 <!---
 szuwest/szuwest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
